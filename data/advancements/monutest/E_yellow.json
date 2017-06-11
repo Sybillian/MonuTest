@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 4
+        },
+        "title": "Yellow Wool",
+        "description": "Found in Area5"
+    },
+     "parent": "monutest:root",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

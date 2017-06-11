@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 1
+        },
+        "title": "Orange Wool",
+        "description": "Found in Area2"
+    },
+     "parent": "monutest:D_white",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

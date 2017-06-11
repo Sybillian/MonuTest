@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 10
+        },
+        "title": "Purple Wool",
+        "description": "Found in Area11"
+    },
+     "parent": "monutest:B_cyan",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

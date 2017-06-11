@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 15
+        },
+        "title": "Black Wool",
+        "description": "Found in Area16"
+    },
+     "parent": "monutest:A_red",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

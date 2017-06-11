@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 8
+        },
+        "title": "Light Gray Wool",
+        "description": "Found in Area9"
+    },
+     "parent": "monutest:root",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

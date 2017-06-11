@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:fireworks"
+        },
+        "title": "Monument Complete!",
+        "description": "You have beaten [Mapname]!",
+        "frame": "challenge"
+    },
+     "parent": "monutest:A_black",
+     "criteria": {
+        "monument": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

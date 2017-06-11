@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 3
+        },
+        "title": "Light Blue Wool",
+        "description": "Found in Area4"
+    },
+     "parent": "monutest:D_magenta",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

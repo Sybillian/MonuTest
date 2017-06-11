@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool"
+        },
+        "title": "Install Successful!",
+        "description": "MonuTest has been installed successfully! This advancement will never show up for players or be used again, so you can remove it if you like.",
+        "hidden": true        
+    },
+     "parent": "monutest:win",
+     "criteria": {
+        "init": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

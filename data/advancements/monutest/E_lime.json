@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool",
+            "data": 5
+        },
+        "title": "Lime Wool",
+        "description": "Found in Area6"
+    },
+     "parent": "monutest:E_yellow",
+     "criteria": {
+        "wool": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

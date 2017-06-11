@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wool"
+        },
+        "title": "Monument",
+        "background": "minecraft:textures/blocks/obsidian.png",
+        "description": "",
+        "show_toast": false,
+        "hidden": true,
+        "announce_to_chat": false
+    },
+     "criteria": {
+        "joingame": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

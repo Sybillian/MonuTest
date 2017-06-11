@@ -1,0 +1,1 @@
+MonuTest is a very simple function/advancement set made for CTM maps. It detects when wool blocks are placed on a monument and grants a custom advancement for each block, as well as a "map won" advancement upon monument completion. To install, just merge the "data" folder with the one already in your Minecraft save.
